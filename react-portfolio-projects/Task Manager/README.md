@@ -50,13 +50,23 @@ To run this project locally, follow these steps:
 
 
 ## Scripts
-
 ### Run the development server:
 ```bash
 npm start
-
-
-
+```
+### Build the app for production:
+```bash
+npm run build
+```
+### Run tests:
+```bash
+npm test
+```
+### Lint the code:
+```bash
+npm run lint
+```
+                                                                                                           
 
 
 
