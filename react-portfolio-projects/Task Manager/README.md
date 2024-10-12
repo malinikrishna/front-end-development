@@ -48,11 +48,14 @@ To run this project locally, follow these steps:
     http://localhost:3000
     ```
 
+
 ## Scripts
 
 ### Run the development server:
 ```bash
 npm start
+
+
 
 
 
